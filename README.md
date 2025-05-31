@@ -1,5 +1,6 @@
 🌍 Global Sales Analysis Dashboard
 
+---
 
 
 👋 About the Project
@@ -10,6 +11,9 @@ This Global Sales Analysis Dashboard is an end-to-end business intelligence solu
 It visualizes four years of global sales data (2012–2015), helping stakeholders quickly identify trends, spot high-performing products and regions, monitor customer behavior, and evaluate returns and delivery performance.
 
 
+---
+
+
 
 🚀 Objective
 
@@ -17,6 +21,10 @@ It visualizes four years of global sales data (2012–2015), helping stakeholder
 The goal of this project was to simulate a real-world business scenario—where raw sales data is collected, cleaned, transformed, analyzed, and 
 
 visualized to support data-driven decision making. The dashboard provides quick and clear insights into global sales operations.
+
+
+---
+
 
 📌 Tools & Technologies
 
@@ -29,6 +37,10 @@ Excel	Data cleaning, formatting, prep
 
 SQL	Querying, filtering, aggregation
 Power BI	Visual analytics and dashboard design
+
+
+---
+
 
 📈 Dashboard Highlights
 
@@ -44,6 +56,10 @@ Average Delivery Time: 3.98 Days
 
 Return Orders: 1,079
 
+
+---
+
+
 📊 Interactive Features
 
 
@@ -52,6 +68,9 @@ Year slicer (2012–2015)
 Dynamic charts and visuals
 
 Filters and segment views for deep analysis
+
+
+---
 
 
 
@@ -68,6 +87,10 @@ Top 10 Customers: Tracked by purchase change
 
 
 Top 6 Products by Profit & Loss: Profitability at product level
+
+
+
+---
 
 
 
@@ -88,9 +111,13 @@ Top 6 Products by Profit & Loss: Profitability at product level
 👥 Top 10 customers contributed significantly to total revenue growth
 
 
+---
+
+
 🔄 Return orders were analyzed to optimize operations and minimize loss
 
 
+---
 
 
 These insights could help stakeholders:
