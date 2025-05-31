@@ -42,7 +42,24 @@ Power BI	Visual analytics and dashboard design
 ---
 
 
+**🖼 Full Dashboard Screenshot**
+
+https://drive.google.com/file/d/1y4qQ_Qbo_XpM5MNR5WVZJm7ycgEUq9NQ/view?usp=sharing
+
+![Screenshot 2025-05-31 235519](https://github.com/user-attachments/assets/08c32996-0d0d-4a18-82ea-8dbffbffb9e2)
+
+
+**📽️ Live Demo**
+
+
+🎥 Watch the full dashboard in action:
+▶️ Click here to view video demo https://drive.google.com/file/d/1QYL3CZukHsf30uQfKW9W2-YYTvKFu9um/view?usp=sharing
+
+
+
+
 **📈 Dashboard Highlights**
+
 
 
 🎯 Key Metrics (KPIs)
