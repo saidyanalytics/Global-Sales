@@ -1,9 +1,9 @@
-🌍 Global Sales Analysis Dashboard
+**🌍 Global Sales Analysis Dashboard**
 
 ---
 
 
-👋 About the Project
+**👋 About the Project**
 
 
 This Global Sales Analysis Dashboard is an end-to-end business intelligence solution designed using Power BI. 
@@ -15,7 +15,7 @@ It visualizes four years of global sales data (2012–2015), helping stakeholder
 
 
 
-🚀 Objective
+**🚀 Objective**
 
 
 The goal of this project was to simulate a real-world business scenario—where raw sales data is collected, cleaned, transformed, analyzed, and 
@@ -26,7 +26,7 @@ visualized to support data-driven decision making. The dashboard provides quick 
 ---
 
 
-📌 Tools & Technologies
+**📌 Tools & Technologies**
 
 
 Tool	Purpose
@@ -42,7 +42,7 @@ Power BI	Visual analytics and dashboard design
 ---
 
 
-📈 Dashboard Highlights
+**📈 Dashboard Highlights**
 
 
 🎯 Key Metrics (KPIs)
@@ -60,7 +60,7 @@ Return Orders: 1,079
 ---
 
 
-📊 Interactive Features
+**📊 Interactive Features**
 
 
 Year slicer (2012–2015)
@@ -74,7 +74,7 @@ Filters and segment views for deep analysis
 
 
 
-🧩 Breakdown Visuals
+**🧩 Breakdown Visuals**
 
 
 Sales by Segment: Consumer, Corporate, Home Office
@@ -94,7 +94,7 @@ Top 6 Products by Profit & Loss: Profitability at product level
 
 
 
-🔍 Insights & Business Value
+**🔍 Insights & Business Value**
 
 📈 2015 was the strongest sales year globally
 
@@ -114,13 +114,13 @@ Top 6 Products by Profit & Loss: Profitability at product level
 ---
 
 
-🔄 Return orders were analyzed to optimize operations and minimize loss
+**🔄 Return orders were analyzed to optimize operations and minimize loss**
 
 
 ---
 
 
-These insights could help stakeholders:
+**These insights could help stakeholders:**
 
 
 Identify and double down on profitable products/regions
@@ -138,7 +138,7 @@ Better understand customer lifetime value
 ---
 
 
-🧠 My Role in the Project
+**🧠 My Role in the Project**
 
 
 I independently handled every stage of the data analytics process:
@@ -169,7 +169,7 @@ Followed BI storytelling principles to guide decision-making
 ---
 
 
-📸 Full Dashboard Preview
+**📸 Full Dashboard Preview**
 
 
 👨‍💼 Ideal For
@@ -189,19 +189,16 @@ Data-driven companies looking to modernize reporting
 
 ---
 
-📬 Let's Connect
+
+
+**📬 Let's Connect**
 If you’re a client, startup, or company looking for a capable and passionate Data Analyst or BI Developer, let’s talk!
 
-
-
----
-
-
-🔗 LinkedIn
 
 📫 Email: saidy15-4501@diu.edu.bd
 
 💻 GitHub: saidyanalytics
 
+portfolio coming soon
 🏷️ Tags
 #PowerBI #DataAnalytics #SalesDashboard #SQL #Excel #BusinessIntelligence #DataVisualization #InteractiveDashboard
